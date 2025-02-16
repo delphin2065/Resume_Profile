@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+}
+#headImg {
+  width: vw;
+  height: 50vh;
+}
+
+#rpa {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -7rem;
+}
+
+#water {
+  width: vw;
+  height: vh;
+}
+
+#userName {
+  font-size: 35px;
+  text-align: center;
+}
+
+a#email,
+a#cellphone,
+a#credly,
+a#linkedin {
+  text-decoration: none;
+}
+
+a.nav-link:hover,
+li.dropdown-toggle:hover,
+a.dropdown-item:hover {
+  background-color: black;
+  color: white;
+  opacity: 30%;
+}
+
+.dataframe {
+  width: 100%;
+  font-size: 10px;
+  text-align: center;
+}
+.dataframe thead tr th {
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
