@@ -20,6 +20,9 @@ def file():
 def record():
     return render_template('record.html')
 
+@app.route('/resume')
+def record():
+    return render_template('resume.html')
 
 @app.route('/priceSearch', methods=['POST', 'GET'])
 def priceSearch():

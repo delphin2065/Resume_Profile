@@ -1,0 +1,41 @@
+https://api.waqi.info/feed/here/?token=fe4853241ce2b8dcee5bab176f96fd9c068efe1e
+
+https://zh.xhamster.com/
+
+https://spankbang.com/83j7y/video/ajx+drink+milk+from+my+big+nipples
+
+https://tktube.com/zh/videos/256116/arm-144-2/
+
+https://noodlemagazine.com/watch/-69328374_171111738
+
+https://xemean.net/vodplay/1232338.shtml
+
+https://xemean.net/vodplay/1187010.shtml
+
+
+
+
+﻿此App主要連接yfinance並採用streamlit且建立定期定額的應用程式。
+自動計算執行期間績效、MDD與最終持有股數等資訊
+
+使用者需要自行輸入
+
+#股號輸入規則
+1. 美股 stockID
+2. 台股上市 stockID + ".tw"
+3. 台股上櫃 stockID + ".two"
+
+#參數介紹
+1. 股票代號(QQQ / 0050.tw / 5483.two)
+2. 往前回測幾天
+3. 每月投入金額
+4. 每月第幾個交易日進行買入 
+5. 交易成本(%)
+
+https://regularinvests.streamlit.app/
+
+delta880254@proton.me
+delta880254D@@
+
+
+
